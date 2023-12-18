@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lavishgangwani
-- 👀 I’m interested in Data Cleaning.
+- 👀 I’m interested in Data science.
 - 🌱 I’m currently learning Advance Data science and AI
 
 
