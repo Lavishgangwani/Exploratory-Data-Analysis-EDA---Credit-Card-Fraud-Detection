@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about data science and currently on
 
 - Exploring advanced data science topics, experimenting with machine learning models, and working on exciting projects to enhance my skills.
 - Currently brewing up some cool data visualizations.
-- Working on a project to predict the future (well, at least trying to)!
+- Working on a some cool project (well, at least trying to)!
 - Seeking out hidden patterns in datasets like a data detective.
 
 ## 🌈 Let's Connect and Geek Out!
